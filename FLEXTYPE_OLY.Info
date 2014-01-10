@@ -1,5 +1,5 @@
 CAM output for current project FLEXTYPE_OLY.T3001
-Output on 08. Jan 2014, 17:16h
+Output on 10. Jan 2014, 15:12h
 Current project created using TARGET 15.6.0.11 light
 Output created using TARGET 3001! V15.6.0.11
 DELIVERY ADDRESS:
@@ -19,6 +19,7 @@ FLEXTYPE_OLY.Bot = 2 = Copper bottom L1   ( *.Bot )
 FLEXTYPE_OLY.Tool = drill tool list
 FLEXTYPE_OLY.Drill = Galvanised drills
 FLEXTYPE_OLY.Outline = 23 = PCB outline   ( *.Outline )
+FLEXTYPE_OLY.StopTop = 18 = Solder stop mask top   ( *.StopTop )
 FLEXTYPE_OLY.Apr = TARGET 3001! aperture list
 FLEXTYPE_OLY.Whl = Eagle compatible aperture list
 
