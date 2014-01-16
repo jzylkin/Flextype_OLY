@@ -1,5 +1,5 @@
 CAM output for current project FLEXTYPE_OLY.T3001
-Output on 10. Jan 2014, 15:12h
+Output on 16. Jan 2014, 02:15h
 Current project created using TARGET 15.6.0.11 light
 Output created using TARGET 3001! V15.6.0.11
 DELIVERY ADDRESS:
@@ -25,3 +25,5 @@ FLEXTYPE_OLY.Whl = Eagle compatible aperture list
 
 
 Caution: Smallest track is thiner than 0.150mm: (0.100 at -124.2 | -3.2) on layer 23
+
+Caution: Wrong font type at (-115.65 | 25.35) on layer 15
